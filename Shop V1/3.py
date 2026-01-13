@@ -4,7 +4,7 @@ from telebot import types
 import psycopg2
 import logging
 
-ADMIN_BOT_TOKEN = "8195028424:AAFBI74NxM_aE6XRcOUm0VZ8R5GyastnBho"
+ADMIN_BOT_TOKEN = "8098934507:AAHyE_cSAYyV8DxMWTIQoh7yU2VL53HLq7s"
 
 DB_CONFIG = {
     "host": "localhost",

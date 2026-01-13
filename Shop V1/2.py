@@ -14,7 +14,7 @@ DB_CONFIG = {
     "password": "1234567890"
 }
 
-BOT_TOKEN_SUPPORT = "8437970718:AAHg6SH2NLqKc98GkbhwfPwwyxFtPqA4eJU"
+BOT_TOKEN_SUPPORT = "8568991857:AAFBze2tyzOnUcUQooO7atJlRs1JVruORPw"
 bot = telebot.TeleBot(BOT_TOKEN_SUPPORT)
 
 # Состояния
